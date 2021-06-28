@@ -1,4 +1,4 @@
-# Bachelor_Thesis
+# Bachelor Thesis
 
 ## Abstract
 In this thesis we want to give a theoretical and practical introduction to stochastic gradient descent (SGD) 
