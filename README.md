@@ -1,4 +1,4 @@
-# Bachelor Thesis
+# Bachelor Thesis: Stochastic Gradient Descent and its Application for Parametrized Boundary Value Problems under Uncertainties
 
 ## Abstract
 In this thesis we want to give a theoretical and practical introduction to stochastic gradient descent (SGD) 
