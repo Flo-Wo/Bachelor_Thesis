@@ -18,7 +18,7 @@ results and provides convergence in expectation.
 
 ## Zusammenfassung
 Diese Arbeit behandelt eine theoretische und praktische Einführung in das stochastische Gradientenverfahren. Im theoretischen Teil zeigen wir zwei
-wichtige Konvergenzaussagen, welche unter gewissen Bedingung, z.~B. einer stark konvexen Zielfunktion, gelten. 
+wichtige Konvergenzaussagen, welche unter gewissen Bedingung, z.B. einer stark konvexen Zielfunktion, gelten. 
 Zunächst beweisen wir ein allgemeines Konvergenzresultat, welches eine obere Schranke für den erwarteten Fehler
 unter der Verwendung einer konstanten Schrittweite bereitstellt. In einem 
 zweiten Schritt wird dieses Resultat auf eine Strategie mit kleiner werdender Schrittweite verbessert.
