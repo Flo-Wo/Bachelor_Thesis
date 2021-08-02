@@ -30,3 +30,7 @@ Durch die Verwendung eines Vorkonditionierers und einer gewichteten Norm verbess
 elliptische partielle Differentialgleichung, welche mit einem Finite-Elemente-Verfahren diskretisiert wird, verallgemeinert. In beiden Fällen erweist
 sich das stochastische Gradientenverfahren als sehr stabiles Optimierungsverfahren, welches Konvergenz im Erwartungswert liefert.
 
+
+For more information see [Kops Universität Konstanz](https://kops.uni-konstanz.de/handle/123456789/54423).
+
+
